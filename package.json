@@ -1,0 +1,26 @@
+{
+  "name": "constructorwordguess",
+  "version": "1.0.0",
+  "description": "command line word guess game using inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gungier/constructorWordGuess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gungier/constructorWordGuess/issues"
+  },
+  "homepage": "https://github.com/Gungier/constructorWordGuess#readme",
+  "dependencies": {
+    "boxen": "^3.1.0",
+    "cli-color": "^1.4.0",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.2",
+    "validator": "^10.11.0"
+  }
+}
